@@ -1,0 +1,11 @@
+1. I need to save a notebook from your GitHub to my PC and then upload it to Colab, make changes if needed, 
+run the code there, and then upload the updated notebook to my GitHub HW repository.
+
+2. All of the notebooks executed successfully for me. I did not need to make any changes.
+
+3. I created my CSC-349-OL1 repository through the GitHub website and organized it into separate folders for HW1 and HW2 for now. 
+I then cloned the repository into VS Code so I could manage and update the files from there in the future if i need to.
+
+4. I'm sure that having a good understanding of basic Python is important because machine learning builds on them. 
+Knowing things like lists, dictionaries, loops, functions, and basic syntax makes it much easier to understand 
+and work with machine learning algorithms. (Though i use Claude for most of my internship coding)
